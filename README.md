@@ -4,12 +4,15 @@
 
 <h3 align="center">
   Find all the repositories in the Github! :octocat:
+
 </h3>
 
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/ac7d33a8-a018-40bc-8ab5-5ab26727a5dd/deploy-status)](https://app.netlify.com/sites/githubexplorer-react-ts/deploys)
 
 ## :wrench: Installation
 
 ### :computer: Web
+
 
 ```
   // 1 - Git Clone
