@@ -9,6 +9,9 @@
 
   [![Netlify Status](https://api.netlify.com/api/v1/badges/ac7d33a8-a018-40bc-8ab5-5ab26727a5dd/deploy-status)](https://app.netlify.com/sites/githubexplorer-react-ts/deploys)
 
+[![GitHub issues](https://img.shields.io/github/issues/TiagoBehenck/github-explorer)](https://github.com/TiagoBehenck/github-explorer/issues)
+
+
 ## :wrench: Installation
 
 ### :computer: Web
