@@ -4,6 +4,7 @@
 
 <h3 align="center">
   Find all the repositories in the Github! :octocat:
+
 </h3>
 
 <p align="center">
@@ -24,6 +25,9 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/TiagoBehenck/github-explorer?color=121214">
 
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/TiagoBehenck/github-explorer?color=121214" />
+
+  <img alt="Netlify" src="https://img.shields.io/netlify/ac7d33a8-a018-40bc-8ab5-5ab26727a5dd?color=121214">
+
 </p>
 
 <p align="center">
@@ -45,6 +49,7 @@
 ## :wrench: Installation
 
 ### :computer: Web
+
 
 ```
   // 1 - Git Clone
